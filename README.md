@@ -1,5 +1,5 @@
-## Power BI - Pizza Sales Dashboard
-# Key Metrics (KPIs)
+# Power BI - Pizza Sales Dashboard
+## 📊 Key Metrics (KPIs)
 The dashboard features high-level cards to provide an immediate snapshot of business health:
 
 - Total Revenue: The sum of the total price of all pizza orders.
@@ -12,21 +12,21 @@ The dashboard features high-level cards to provide an immediate snapshot of busi
 
 - Average Pizzas Per Order: The average number of pizzas sold per transaction.
 
-🖥️ Dashboard Pages & Visuals
-1. Home Page: Sales Overview
+## 🖥️ Dashboard Pages & Visuals
+### 1. Home Page: Sales Overview
 Focuses on identifying trends and categorical distribution to understand when and what customers are buying.
 
-Daily Trend for Total Orders: A chart showing peak order days (e.g., weekends vs. weekdays).
+- Daily Trend for Total Orders: A chart showing peak order days (e.g., weekends vs. weekdays).
 
-Monthly Trend for Total Orders: Visualizes seasonal demand throughout 2015.
+- Monthly Trend for Total Orders: Visualizes seasonal demand throughout 2015.
 
-% of Sales by Pizza Category: Breakdowns of revenue by Classic, Veggie, Supreme, and Chicken.
+- % of Sales by Pizza Category: Breakdowns of revenue by Classic, Veggie, Supreme, and Chicken.
 
-% of Sales by Pizza Size: Analysis of customer preference (S, M, L, XL, XXL).
+- % of Sales by Pizza Size: Analysis of customer preference (S, M, L, XL, XXL).
 
-Total Pizzas Sold by Category: A volume-based comparison of pizza types.
+- Total Pizzas Sold by Category: A volume-based comparison of pizza types.
 
-2. Best & Worst Sellers: Sales Performance
+### 2. Best & Worst Sellers: Sales Performance
 Focuses on product-level performance to assist in inventory management and menu optimization.
 
 Top 5 Pizzas: Ranked by Revenue, Quantity Sold, and Total Orders.
