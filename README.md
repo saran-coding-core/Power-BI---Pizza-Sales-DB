@@ -4,7 +4,7 @@ This Power BI project provides a comprehensive analysis of a pizza restaurant’
 ## 📂 Data Source
 The dataset used for this analysis is the Pizza Sales Dataset, which contains 2015 sales records for a fictional pizza shop, including details on pizza types, sizes, quantities, prices, and order dates.
 
-- Dataset Link: Download/View Dataset <a href="">Here</a>
+- Dataset Link: Download/View Dataset <a href="https://github.com/saran-coding-core/Power-BI---Pizza-Sales-DB/blob/main/pizza_sales_excel_file.xlsx">Here</a>
 
 - Data Format: .xlsx
 ## 📊 Key Metrics (KPIs)
