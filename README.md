@@ -13,7 +13,7 @@ The dashboard features high-level cards to provide an immediate snapshot of busi
 - Average Pizzas Per Order: The average number of pizzas sold per transaction.
 
 ## 🖥️ Dashboard Pages & Visuals
-### 1. Home Page: Sales Overview
+### 1. Home Page: Sales Overview <a href="https://github.com/saran-coding-core/Power-BI---Pizza-Sales-DB/blob/main/Home_Page_SS.png">(Home Page Preview)</a>
 Focuses on identifying trends and categorical distribution to understand when and what customers are buying.
 
 - Daily Trend for Total Orders: A chart showing peak order days (e.g., weekends vs. weekdays).
