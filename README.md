@@ -26,7 +26,7 @@ Focuses on identifying trends and categorical distribution to understand when an
 
 - Total Pizzas Sold by Category: A volume-based comparison of pizza types.
 
-### 2. Best & Worst Sellers: Sales Performance
+### 2. Best & Worst Sellers: Sales Performance <a href="https://github.com/saran-coding-core/Power-BI---Pizza-Sales-DB/blob/main/Sale_Performace_SS.png">(Sales Performance Page Preview)</a>
 Focuses on product-level performance to assist in inventory management and menu optimization.
 
 - Top 5 Pizzas: Ranked by Revenue, Quantity Sold, and Total Orders.
