@@ -1,4 +1,12 @@
 # Power BI - Pizza Sales Dashboard
+## Project Overview
+This Power BI project provides a comprehensive analysis of a pizza restaurant’s sales performance throughout the year 2015. The dashboard transforms raw sales data into actionable insights, helping stakeholders understand order patterns, popular products, and revenue drivers.
+## 📂 Data Source
+The dataset used for this analysis is the Pizza Sales Dataset, which contains 2015 sales records for a fictional pizza shop, including details on pizza types, sizes, quantities, prices, and order dates.
+
+- Dataset Link: Download/View Dataset <a href="">Here</a>
+
+- Data Format: .xlsx
 ## 📊 Key Metrics (KPIs)
 The dashboard features high-level cards to provide an immediate snapshot of business health:
 
