@@ -29,20 +29,20 @@ Focuses on identifying trends and categorical distribution to understand when an
 ### 2. Best & Worst Sellers: Sales Performance
 Focuses on product-level performance to assist in inventory management and menu optimization.
 
-Top 5 Pizzas: Ranked by Revenue, Quantity Sold, and Total Orders.
+- Top 5 Pizzas: Ranked by Revenue, Quantity Sold, and Total Orders.
 
-Bottom 5 Pizzas: Identifying the lowest performers by Revenue, Quantity Sold, and Total Orders to highlight potential menu removals.
+- Bottom 5 Pizzas: Identifying the lowest performers by Revenue, Quantity Sold, and Total Orders to highlight potential menu removals.
 
-🛠️ Tools Used
-Power BI Desktop: For data cleaning, modeling, and visualization.
+## 🛠️ Tools Used
+- Power BI Desktop: For data cleaning, modeling, and visualization.
 
-DAX (Data Analysis Expressions): Used to create calculated measures for KPIs and trends.
+- DAX (Data Analysis Expressions): Used to create calculated measures for KPIs and trends.
 
-Power Query: For data transformation and ETL processes.
+- Power Query: For data transformation and ETL processes.
 
-💡 Key Insights (Example)
-Orders are highest on weekends, specifically Friday and Saturday evenings.
+## 💡 Key Insights (Example)
+- Orders are highest on weekends, specifically Friday and Saturday evenings.
 
-The "Classic" category contributes the most to total sales volume.
+- The "Classic" category contributes the most to total sales volume.
 
-Large-sized pizzas drive the highest percentage of total revenue.
+- Large-sized pizzas drive the highest percentage of total revenue.
