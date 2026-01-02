@@ -49,8 +49,19 @@ Focuses on product-level performance to assist in inventory management and menu 
 - Power Query: For data transformation and ETL processes.
 
 ## 💡 Key Insights (Example)
-- Orders are highest on weekends, specifically Friday and Saturday evenings.
+### 📅 Sales & Time Trends
+- Peak Periods: Orders reach their highest volume during weekends, specifically on Friday and Saturday evenings.
 
-- The "Classic" category contributes the most to total sales volume.
+- Seasonal Demand: The business experiences higher activity during the first seven months of the year, followed by a significant decline in the final four months.
 
-- Large-sized pizzas drive the highest percentage of total revenue.
+### 🍕 Category & Size Analysis
+- Category Leader: The Classic category is the primary driver for both total sales revenue and order volume.
+
+- Size Preference: Large-sized pizzas contribute more to total sales than any other size.
+
+### 🏆 Product Performance (Best & Worst)
+- Revenue Drivers: The Thai Chicken Pizza is the highest revenue-generating item.
+
+- Customer Favorites: The Classic Deluxe Pizza is the top performer in terms of both total quantity sold and total order count.
+
+- Underperformers: The Brie Carre Pizza ranks lowest across all metrics, contributing the least to revenue, quantity sold, and total order volume.
